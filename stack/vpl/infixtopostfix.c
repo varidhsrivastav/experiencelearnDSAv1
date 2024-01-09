@@ -5,6 +5,7 @@
 struct Node {
     char data;
     struct Node* next;
+    // commented turbo
 };
 
 struct Stack {
