@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "e:/mca/sem1/dataStruture/unit2",
-      "program": "e:/mca/sem1/dataStruture/unit2/build/Debug/outDebug",
+      "cwd": "e:/mca/sem1/dataStruture/stack",
+      "program": "e:/mca/sem1/dataStruture/stack/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
