@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "e:/mca/sem1/dataStruture/queueexper",
-      "program": "e:/mca/sem1/dataStruture/queueexper/build/Debug/outDebug",
+      "cwd": "e:/mca/sem1/dataStruture/tree",
+      "program": "e:/mca/sem1/dataStruture/tree/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
